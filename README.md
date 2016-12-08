@@ -8,6 +8,7 @@ includ:
 * redis
 * mongo
 * jade
+* knex bookshelf
 * ...
 
 [node.js]: <http://nodejs.org>
