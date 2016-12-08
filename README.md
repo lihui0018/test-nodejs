@@ -1,5 +1,5 @@
 # ttt
-### test nodejs
+### test [nodejs]
 includ:
 - [Express]
 * session
@@ -8,3 +8,6 @@ includ:
 * redis
 * mongo
 * ...
+
+[node.js]: <http://nodejs.org>
+[express]: <http://expressjs.com>
