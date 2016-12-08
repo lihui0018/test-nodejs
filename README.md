@@ -7,6 +7,7 @@ includ:
 * cookie
 * redis
 * mongo
+* jade
 * ...
 
 [node.js]: <http://nodejs.org>
